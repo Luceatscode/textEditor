@@ -10,6 +10,7 @@
   * [Feedback](#feedback)
   * [Questions](#questions)
   * [Credits](#crdits)
+  * [Deployed Application](#deployedapplication)
 
   ## Installation
 
@@ -27,3 +28,7 @@
   ## Credits
 
   Stack Overflow, W3 Schools, and YouTube were online resources I used to get this application working. Additional help was received from my developer friend @joeybuenosdias on GitHub and tutors at the University of Utah Coding Bootcamp. Thanks for looking!
+
+  ## Deployed Application
+
+  Here is the link to my deployed application! [Link](https://text-editor-lr-e7e790a7cb84.herokuapp.com/)
