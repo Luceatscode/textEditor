@@ -32,3 +32,7 @@
   ## Deployed Application
 
   Here is the link to my deployed application! [Link](https://text-editor-lr-e7e790a7cb84.herokuapp.com/)
+
+  ## Screenshot
+
+  ![Alt Text](/pwascreenshot.png)
